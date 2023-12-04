@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- 1 -->
+  <meta charset="utf-8">
+  <meta name="generator" content="AlterVista - Editor HTML"/>
+  <!-- 2 -->
+  <title>Battistolo Davide</title>
+  <style>
+   a:link {
+  color: red;
+  background-color: black;
+}
+iframe{
+margin-left:180px;
+}
+a:visited{
+color: red;
+  background-color: black;
+}
+body{
+background-image:url(https://besthqwallpapers.com/Uploads/30-9-2020/142306/thumb2-honda-red-logo-4k-red-brickwall-honda-logo-cars-brands.jpg);
+}
+h1{
+  color:#ff0000;
+  font-size:50px;
+  
+  }
+  p{
+  text-align:center;
+  }
+  h3{
+  color:white;
+  font-family:open sans;
+  margin-left:350px;
+  }
+  header{
+  background-color:white;
+  margin-left:120px;
+  width:1000px;
+  height:1000px;
+  border:1px solid black;
+  }
+  </style>
+</head>
+<body>
+
+
+<header>
+<div style="background-color:black">
+
+<!-- 3 -->
+<img src="https://e1.pxfuel.com/desktop-wallpaper/160/759/desktop-wallpaper-littlemorrui2-honda-logo-honda-logo.jpg" style="float:left;width:100px;height:70px;margin-left:300px;">
+<h1>Honda</h1>
+<h3><a href="http://battistolo.altervista.org/verifica/moto.html">Moto---</a><a href="">Scooter---</a><a href="http://battistolo.altervista.org/verifica/assistenza.html">Assistenza</a></h3>
+</div>
+<p>Siamo un'azienda giapponese multinazionale che produce principalmente automobili e motocicli, siamo noti anche per le ricerche effettuate nel campo della robotica.</p>
+<p>I migliori al mondo a produrre moto e scooter</p>
+<p>Dai un'occhiata ai nostri nuovi modelli </p>
+<!--10-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GufeO9r8-Ek?si=5uvCnz8sbeSitHuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</header>
+</body>
+</html>
