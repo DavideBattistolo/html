@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="AlterVista - Editor HTML"/>
+  <title></title>
+  <style>
+    header{
+  background-color:white;
+  margin-left:120px;
+  width:1000px;
+  height:1000px;
+  border:1px solid black;
+  }
+  body{
+background-image:url(https://besthqwallpapers.com/Uploads/30-9-2020/142306/thumb2-honda-red-logo-4k-red-brickwall-honda-logo-cars-brands.jpg);
+}
+h1{
+  color:#ff0000;
+  font-size:50px;
+  text-align:center;
+  
+  }
+  p{
+  text-align:center;
+  }
+  form{
+  margin-left:380px;
+  }
+  </style>
+</head>
+<body>
+<header>
+<div style="background-color:black">
+<h1>Assistenza</h1>
+</div>
+<p>Lascia pure un feedback alla nostra email homda.gmail.com &#128521;</p>
+<p>↓ Per restare aggiornato sui nostri nuovi modelli o per chiedere assistenza registrati qui ↓</p>
+<form action="/action_page.php">
+  <label for="fname">Indirizzo mail</label><br>
+  <input type="text" id="fname" name="fname" value="@gmail.com"><br>
+   <label for="lname">nome:</label><br>
+  <input type="text" id="lname" name="lname" value="nome"><br><br>
+  <label for="lname">cognome:</label><br>
+  <input type="text" id="lname" name="lname" value="cognome"><br><br>
+  <input type="submit" value="INVIO">
+</form> 
+</header>
+</body>
+</html>
