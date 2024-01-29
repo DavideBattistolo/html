@@ -1,0 +1,48 @@
+h1{
+color:rgb(218,165,32);
+border: 2px solid rgb(218,165,32);
+text-align:center;
+}
+body{
+background-image:url(https://dealerinspire-image-library-prod.s3.us-east-1.amazonaws.com/images/0nJVKEM373y2sujhWaYQ5Y5Fh4doaDNSaFIeD5pk.jpg);
+}
+h3{
+color:white;
+text-align:center;
+font-family:Algerian;
+}
+p{
+color:white;
+}
+.p2{
+text-align:right;
+}
+.div1{
+margin-left:115px;
+border: 1px double rgb(153,0,0);
+width:80%;
+height:450px;
+background-color:black;
+}
+.div2{
+margin-left:100px;
+border:1px dotted rgb(153,0,0);
+width:90%;
+height:450px;
+background-color:black;
+}
+.img1{
+float:left;
+}
+.p1{
+text-align:left;
+}
+table{
+border:1px solid white;
+margin-left:600px;
+
+}
+th,td,tr{
+border:1px solid white;
+color:white;
+}
